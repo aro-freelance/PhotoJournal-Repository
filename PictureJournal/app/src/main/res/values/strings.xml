@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Arora Photo Journal</string>
+    <string name="title_textview">Arora Photo Journal</string>
+    <string name="cardview_text">What will you remember about today?</string>
+    <string name="start_button_text">Get Started</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password_edittext">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="create_account_text">Or</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="hint_user_name">Username</string>
+    <string name="save_button_write_journal">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="journal_entry_hint">Enter your message here</string>
+    <string name="menu_title">Add Journal Entry</string>
+    <string name="menu_signout">Logout</string>
+    <string name="menu_logout">Logout</string>
+    <string name="no_journal_entries_prompt">Click the + to add a Journal Entry.</string>
+    <string name="tags_placeholder">Tags: perrin, dog, puppy, wheel of time, adorable</string>
+    <string name="enter_tag_button_string">Add Tag</string>
+    <string name="search_hint">Search for tags</string>
+    <string name="current_tag_list_screen_placeholder">Perrin</string>
+    <string name="delete_button_string">Delete</string>
+    <string name="tags_hint">Enter tags separated by a comma</string>
+    <string name="tags_header">Tags</string>
+    <string name="tags_button_string">Close</string>
+    <string name="update_button_string">Update</string>
+    <string name="search_image_content_descrip">Search Image</string>
+    <string name="placeholder_tag_cardview">PERRIN</string>
+    <string name="close_tag_content_descrip">Close Tag Image</string>
+    <string name="no_results_tag_search">\"No results for : \"</string>
+</resources>

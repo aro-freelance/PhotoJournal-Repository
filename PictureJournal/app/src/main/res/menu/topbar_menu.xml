@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_icon"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="@string/menu_title"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_gallery_icon"
+        android:title="Toggle Gallery Mode"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_grid_on_24"
+        />
+
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/menu_title"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_gallery"
+        android:title="Toggle Gallery Mode"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/menu_logout"
+        app:showAsAction="never"/>
+
+</menu>
